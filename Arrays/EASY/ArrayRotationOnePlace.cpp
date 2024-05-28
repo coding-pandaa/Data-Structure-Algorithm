@@ -1,3 +1,7 @@
+//Rotate the array by one place
+// Time -> O(n)
+// Extra Space -> O(1)
+
 #include<bits/stdc++.h>
 using namespace std;
 void rotation(int n,vector<int> &v)
