@@ -1,5 +1,7 @@
 //Rotate the array by D places
 //Brute force approach 
+//TC-> O(n+d)
+//SC _> O(1)
 #include<bits/stdc++.h>
 using namespace std;
 void rotateArray(int n, vector<int> &v, int d)
