@@ -1,4 +1,5 @@
 //Leetoce Question ->https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/
+//TC -> O(n)
 
 #include<bits/stdc++.h>
 using namespace std;
