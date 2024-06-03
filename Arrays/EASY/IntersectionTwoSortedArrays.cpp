@@ -3,6 +3,8 @@
 //And keep putting the elements in the result array. Along with that, keep track of a new array as visited, initially having all values as 0, as size as the second array and keep marking them 1 as they gets visited. 
 //But this approach is using n^2 time and extra space O(n)
 //Most optimal solution(using two pointer appproach)
+//TC->O(n+m)
+//SC->O(n+m)  (Becoz of just returning the answer)
 
 #include<bits/stdc++.h>
 using namespace std;
