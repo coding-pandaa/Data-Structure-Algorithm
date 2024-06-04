@@ -2,6 +2,8 @@
 // TC-> O(n)
 // SC -> O(n)
 
+//1 3 3 5 6 6 8  9 9 9
+//1 3 5 6 8 9 
 #include<bits/stdc++.h>
 using namespace std;
 int removeDuplicates(vector<int> &v,int n) {
